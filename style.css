@@ -1,0 +1,41 @@
+*{
+    margin: 10px;
+    padding: 10px;
+  /*  box-sizing: border-box;
+    background: url("1.jpg");*/
+}
+.container{
+    max-width: 80%;
+    background-color: bisque;
+    padding: 34px;
+    margin: auto;
+}
+.container h1 {
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+input,textarea{
+    display: block;
+    width: 100%;
+    border: 2px solid black;
+    outline: none;
+    font-size: 16px;
+    border-radius: 6px;
+    margin: 11px 0px;
+    padding: 7px;
+}
+.btn{
+    text-align: center;
+    color: white;
+    background: blue;
+    padding: 8px 12px;
+    border: 2px solid white;
+    /* border-radius: inherit; */
+    cursor: pointer;
+}
+.Thank{
+    background: beige;
+}
+
